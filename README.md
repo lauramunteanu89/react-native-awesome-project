@@ -1,2 +1,3 @@
 # react-native-awesome-project
-My first React Native app
+Building my first React Native app
+:sparkles: :sparkles: :sparkles:
